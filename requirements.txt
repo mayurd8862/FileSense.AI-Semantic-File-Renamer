@@ -1,0 +1,7 @@
+streamlit
+langchain_google_genai
+PyPDF2
+langchain-community
+pillow
+docx2txt
+assemblyai
