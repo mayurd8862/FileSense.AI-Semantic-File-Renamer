@@ -221,7 +221,7 @@ if uploaded_file is not None:
             name = f"{response.text.strip().replace(' ', '_')}{file_extension}"
 
             # Read the file content as bytes
-            file_content = uploaded_file.read()
+            file_content = uploaded_file
 
             # Provide a download button
             st.download_button(label=f"Download {name}", data=file_content, file_name=name, mime=get_mime_type(name))

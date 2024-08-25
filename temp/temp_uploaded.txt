@@ -1,0 +1,14 @@
+LIKE()
+UPPER()
+LOWER()
+CONCAT()
+SUBSTRING(TEXT,-3)
+
+LEFT(column_name,1)
+RIGHT(column_name,1)
+
+
+## Important tips
+
+1) whenever u are using GROUP BY cmd dont use WHERE, always use HAVING
+2) However, you cannot directly reference columns from the LEFT JOIN in the HAVING clause without aggregate functions or without proper logic.
