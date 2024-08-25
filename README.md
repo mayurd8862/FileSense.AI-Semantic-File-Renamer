@@ -4,11 +4,12 @@ FileSense.AI is your intelligent solution for file organization. By leveraging t
 
 ## 🚀 Features
 
-- **AI-Powered Renaming**: Uses Gen AI to analyze and understand file content for intuitive naming.
+- **AI-Powered Renaming**: Uses Gen AI technique to analyze and understand file content for intuitive naming.
 - **Wide Format Support**: Handles a variety of file types including PDFs, DOCs, images, and more.
 - **Seamless Integration**: Easy to use with a user-friendly interface for efficient file management.
 
 ---
+![image](https://github.com/user-attachments/assets/16794f49-5f99-4976-9e33-da3b8a973329)
 
 
 ## 🛠️ Installation 
