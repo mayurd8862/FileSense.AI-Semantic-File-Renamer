@@ -15,7 +15,7 @@ FileSense.AI is your intelligent solution for file organization. By leveraging t
 
 1. **Clone the Repository**
     ```bash
-    git clone https://github.com/mayurd8862/Filesense.AI-AI-powered-file-renamer.git
+    git clone https://github.com/mayurd8862/FileSense.AI-AI-powered-file-renamer.git
     ```
 
 2. **Install Dependencies**
