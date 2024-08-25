@@ -4,9 +4,8 @@ FileSense.AI is your intelligent solution for file organization. By leveraging t
 
 ## 🚀 Features
 
-- **AI-Powered Renaming**: Uses advanced AI to analyze and understand file content for intuitive naming.
+- **AI-Powered Renaming**: Uses Gen AI to analyze and understand file content for intuitive naming.
 - **Wide Format Support**: Handles a variety of file types including PDFs, DOCs, images, and more.
-- **Multi-Language Support**: Supports multiple languages for global usability.
 - **Seamless Integration**: Easy to use with a user-friendly interface for efficient file management.
 
 ---
@@ -16,7 +15,7 @@ FileSense.AI is your intelligent solution for file organization. By leveraging t
 
 1. **Clone the Repository**
     ```bash
-    git clone https://github.com/mayurd8862/AI-powered-file-renamer.git
+    git clone https://github.com/mayurd8862/Filesense.AI-AI-powered-file-renamer.git
     ```
 
 2. **Install Dependencies**
