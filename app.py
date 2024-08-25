@@ -176,12 +176,8 @@ if uploaded_file is not None:
                 f.write(uploaded_file.getbuffer())
 
             loader = AssemblyAIAudioTranscriptLoader(temp_file_path,api_key=api_key)
-
             docs = loader.load()
-
-            st.write(docs[0].page_content)
-
-            # st.write(data)
+            # st.write(docs[0].page_content)
 
             name, file_content = renamer(uploaded_file,docs[0].page_content)
 
@@ -195,12 +191,8 @@ if uploaded_file is not None:
                 f.write(uploaded_file.getbuffer())
 
             loader = AssemblyAIAudioTranscriptLoader(temp_file_path,api_key=api_key)
-
             docs = loader.load()
-
-            st.write(docs[0].page_content)
-
-            # st.write(data)
+            # st.write(docs[0].page_content)
 
             name, file_content = renamer(uploaded_file,docs[0].page_content)
 
