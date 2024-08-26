@@ -8,22 +8,14 @@ import base64
 
 
 
-@st.cache_data
-def get_img_as_base64(file):
-    with open(file, "rb") as f:
-        data = f.read()
-    return base64.b64encode(data).decode()
-
-
 # https://images.pexels.com/photos/1421903/pexels-photo-1421903.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
 
 
-backg = get_img_as_base64("assets/background.png")
 page_bg_img = f"""
 <style>
 [data-testid="stAppViewContainer"] > .main {{
-background-image: url("data:image/png;base64,{backg}");
-background-size: 100%;
+background-image: url("https://images.unsplash.com/photo-1501426026826-31c667bdf23d");
+background-size: 180%;
 background-position: top left;
 background-repeat: no-repeat;
 background-attachment: fixed;
@@ -54,7 +46,11 @@ api_key=st.secrets.ASSEMBLYAI_API_KEY
 st.title("🌱 FileSense.AI")
 st.subheader(" ",divider='rainbow')
 
-st.write("FileSense.AI is your intelligent solution for file organization. By leveraging the power of GenAI 🤖, FileSense.AI analyzes and understands the content of your documents and images, providing intuitive and descriptive file names 🏷️. Experience seamless file management with FileSense.AI! 🚀")
+st.write("")
+
+st.markdown("###### FileSense.AI is your intelligent solution for file organization. By leveraging the power of GenAI 🤖, FileSense.AI analyzes and understands the content of your documents and images, providing intuitive and descriptive file names 🏷️. Experience seamless file management with FileSense.AI! 🚀")
+
+st.write("")
 
 # Open the image using PIL
 image = Image.open("assets/logo.png")
@@ -65,8 +61,6 @@ new_image = image.resize((400, 400))
 col1, col2, col3 = st.columns([1, 2, 1])  # Adjust the width ratio as needed
 with col2:
     st.image(new_image, use_column_width=True)
-
-
 
 
 def get_mime_type(filename):
