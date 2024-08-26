@@ -11,6 +11,9 @@ FileSense.AI is your intelligent solution for file organization. By leveraging t
 ---
 ![image](https://github.com/user-attachments/assets/49694250-00cf-4085-873d-75bd12b1b54e)
 
+![image](https://github.com/user-attachments/assets/06b0e489-5a6c-438d-983c-c2fdfa71a100)
+
+
 ---
 ## 💻 Technologies Used
 langchain, python, llm - google gemini, streamlit, assemblyai
