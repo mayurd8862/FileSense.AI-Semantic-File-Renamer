@@ -10,7 +10,7 @@ FileSense.AI is your intelligent solution for file organization. By leveraging t
 
 ---
 
-![image](https://github.com/user-attachments/assets/dc7eda0a-2f64-4a36-9e14-f8b044b28330)
+![image](https://github.com/user-attachments/assets/d120254e-1714-433d-afd9-d14a94fcbb7d)
 
 
 
