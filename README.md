@@ -9,11 +9,8 @@ FileSense.AI is your intelligent solution for file organization. By leveraging t
 - **Seamless Integration**: Easy to use with a user-friendly interface for efficient file management.
 
 ---
-![image](https://github.com/user-attachments/assets/49694250-00cf-4085-873d-75bd12b1b54e)
 
-![image](https://github.com/user-attachments/assets/06b0e489-5a6c-438d-983c-c2fdfa71a100)
-
-![image](https://github.com/user-attachments/assets/ab321cbe-43d4-4b6f-8934-99d417c9a7e2)
+![image](https://github.com/user-attachments/assets/dc7eda0a-2f64-4a36-9e14-f8b044b28330)
 
 
 
