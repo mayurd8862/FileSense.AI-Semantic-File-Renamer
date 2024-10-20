@@ -71,6 +71,7 @@ For any questions or suggestions, feel free to reach out:
 ---
 [Click here](https://filesenseai.streamlit.app/) to use the web application.
 
-[Click here](https://pypi.org/project/filesense/) to download the filesense package from PIpy.
+[Click here](https://pypi.org/project/filesense/) to download the filesense package from PyPI.
+
 ---
 
